@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @DD737.
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning c# and Unity.
-- 💞️ I’m looking to collaborate on projects ...
-- 📫 How to reach me: E-Mail: donkii.goom@gmail.com Discord: DD737#7176
+I'm Shiyoni.
+I program.
+I play games.
+I draw.
+I am not a bot,
+I reapeat:
+I am not a bot.
 
 <!---
 DD737/DD737 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
